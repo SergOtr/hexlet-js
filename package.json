@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"some discription\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergOtr/hexlet-js.git"
+  },
+  "author": "\"S_O\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergOtr/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/SergOtr/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
